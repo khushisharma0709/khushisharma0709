@@ -1,51 +1,60 @@
-<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khushi%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CSE%20(AIML)%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descAlignY=58&descColor=ffffffcc" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Khushi%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=650&lines=Building+things+that+think+%F0%9F%A7%A0;CSE+(AIML)+%40+Prayagraj+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Dev+%7C+ML+Explorer+%7C+Open+Source;Always+learning%2C+always+shipping+%F0%9F%9A%80;DSA+grinder+%7C+Hackathon+enthusiast+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+things+that+think+%F0%9F%A7%A0;CSE+(AIML)+Student+%40+Prayagraj;Full-Stack+Developer+%7C+AI%2FML+Explorer;Open+Source+Enthusiast+%7C+Hackathon+Participant;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/khushi-sharma-59257127a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mekhushi0709@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://khushisharma0709.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/khushisharma0709"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sharma-59257127a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekhushi0709@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khushisharma0709.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushisharma0709)
 
-<img src="https://komarev.com/ghpvc/?username=khushisharma0709&color=7F77DD&style=flat&label=Profile+views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=khushisharma0709&color=7F77DD&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-```yaml
-name       : Khushi Sharma
-location   : Prayagraj, India 🇮🇳
-degree     : B.Tech CSE (AIML) — 2nd Year
-focus      : DSA + Java | Machine Learning | Full-Stack Dev
-currently  : Mastering DSA with Java, building real-world AI/ML projects
-goal       : Software Engineer | ML Engineer | Open Source Contributor
-hobbies    : Hackathons, Competitive Programming, Learning new tech
+```python
+class KhushiSharma:
+    def __init__(self):
+        self.name       = "Khushi Sharma"
+        self.location   = "Prayagraj, India 🇮🇳"
+        self.degree     = "B.Tech CSE (AIML) — 2nd Year"
+        self.interests  = ["Machine Learning", "Full-Stack Dev", "DSA", "Open Source"]
+        self.currently  = "Mastering DSA + Java | Building AI/ML Projects"
+        self.goal       = "Software Engineer / ML Engineer"
+        self.fun_fact   = "I debug faster with chai ☕"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = KhushiSharma()
+me.say_hi()
 ```
 
 ---
 
 ## 🚀 Skill Progress
 
-> *Updated periodically — reflects current learning stage*
+> Updated manually when I level up! Just edit the number in the URL.
 
-| Skill | Progress | Level |
-|-------|----------|-------|
-| **DSA + Java** | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=200&color=7F77DD&suffix=%) | Intermediate |
-| **Machine Learning** | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=200&color=1D9E75&suffix=%) | Intermediate+ |
-| **Full-Stack Dev** | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=200&color=D85A30&suffix=%) | Intermediate |
-| **Python** | ![82%](https://progress-bar.xyz/82/?scale=100&title=&width=200&color=3776AB&suffix=%) | Advanced |
-| **React** | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=200&color=D4537E&suffix=%) | Intermediate |
-| **TensorFlow** | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=200&color=FF6F00&suffix=%) | Intermediate |
-| **OpenCV** | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=200&color=639922&suffix=%) | Learning |
-| **Flask** | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=200&color=888780&suffix=%) | Intermediate |
+| Skill | Progress | Status |
+|-------|----------|--------|
+| **DSA + Java** | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=220&color=7F77DD&suffix=%) | 🔥 Grinding |
+| **Machine Learning** | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=220&color=1D9E75&suffix=%) | 📈 Advancing |
+| **Full-Stack Dev** | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=220&color=D85A30&suffix=%) | 🛠️ Building |
+| **Python** | ![82%](https://progress-bar.xyz/82/?scale=100&title=&width=220&color=3776AB&suffix=%) | ⚡ Strong |
+| **React** | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=220&color=D4537E&suffix=%) | 🌱 Growing |
+| **TensorFlow / Keras** | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=220&color=FF6F00&suffix=%) | 🤖 Exploring |
+| **OpenCV** | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=220&color=639922&suffix=%) | 👁️ Learning |
+| **Flask** | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=888780&suffix=%) | 🔧 Comfortable |
+
+> 💡 **To update %:** Change the number in the URL — e.g. `progress-bar.xyz/70/` → `progress-bar.xyz/85/`
 
 ---
 
@@ -53,34 +62,17 @@ hobbies    : Hackathons, Competitive Programming, Learning new tech
 
 <div align="center">
 
-**Languages**
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" />
 
-**Frontend**
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=flask,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -88,75 +80,58 @@ hobbies    : Hackathons, Competitive Programming, Learning new tech
 
 ## 📌 Projects
 
-### 🌾 Agro AI Chatbot ⭐ Featured
-> **Crop recommendation system powered by ML** — takes soil type, weather & season as input and recommends the best crops. Includes **AgriBot**, an AI chatbot for real-time farming queries using NLP.
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-7F77DD?style=flat&logoColor=white)
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🌾 **Agro AI Chatbot** ⭐ | Crop recommendation ML system + AgriBot for real-time farming queries | `Python` `Scikit-learn` `Flask` `NLP` | [Repo](#) |
+| 😊 **Emotion Detection** | Real-time facial emotion recognition using CNN from live camera | `TensorFlow` `OpenCV` `CNN` | [Repo](#) |
+| 🌐 **Portfolio Website** | Responsive personal portfolio with smooth animations | `HTML` `CSS` `JavaScript` | [Live](https://khushisharma0709.github.io/Portfolio/) |
+| 🎲 **Guessing Game** | Interactive number guessing game with animated UI | `JavaScript` | [Repo](#) |
 
----
+</div>
 
-### 😊 Emotion Detection System
-> **Real-time facial emotion recognition** using deep learning. Detects happy, sad, angry, surprised from live camera or images using CNN architecture.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-1D9E75?style=flat&logoColor=white)
+> 💡 _Replace `#` with your actual GitHub repo URLs. To add a new project, copy any row and fill in the details._
 
 ---
 
-### 🌐 Portfolio Website
-> Responsive personal portfolio with smooth animations and clean layout.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-&nbsp;[🔗 Live](https://khushisharma0709.github.io/Portfolio/)
-
----
-
-### 🎲 Guessing Game
-> Number guessing game with interactive UI and animated feedback.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 🏆 Certificates & Achievements
-
-<!-- Add your certificates below. Copy a block and fill in your details! -->
-
-| # | Certificate | Issuer | Date | Link |
-|---|-------------|--------|------|------|
-| 🎓 | Machine Learning Specialization | Coursera | Dec 2024 | [View](#) |
-| 💚 | Python (Basic) Certificate | HackerRank | Nov 2024 | [View](https://www.hackerrank.com/profile/mekhushi0709) |
-| 💚 | Problem Solving (Basic) | HackerRank | Nov 2024 | [View](#) |
-| 📘 | Add your certificate here | Issuer | Month Year | [View](#) |
-
-> 💡 *To add more: copy any row above, paste it below, and fill in your details!*
-
----
-
-## 📊 LeetCode Stats
+## 📊 LeetCode — Full Dynamic Stats
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/khushisharma_07?theme=light&font=IBM%20Plex%20Mono&ext=contest)](https://leetcode.com/u/khushisharma_07/)
+### Solved Problems + Heatmap (auto-updates daily)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/khushisharma_07?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/khushisharma_07/)
+
+### Contest Rating History (auto-updates after every contest)
+[![LeetCode Contest](https://leetcard.jacoblin.cool/khushisharma_07?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/khushisharma_07/)
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 🟢 GeeksForGeeks — Live Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/khushisharma_07/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mekhushhiii)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mekhushi0709)
+[![GeeksForGeeks Stats](https://gfgstatscard.vercel.app/mekhushhiii)](https://www.geeksforgeeks.org/profile/mekhushhiii)
+
+</div>
+
+---
+
+## 💚 HackerRank
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/View_HackerRank_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mekhushi0709)
+
+| Badge | Skill | Stars |
+|-------|-------|-------|
+| 🐍 Python | Python Programming | ⭐⭐⭐ |
+| 💡 Problem Solving | Algorithms & Data Structures | ⭐⭐⭐ |
+| ☕ Java | Java Programming | ⭐⭐ |
+
+> _Update your actual star ratings from your HackerRank profile badges page._
 
 </div>
 
@@ -166,37 +141,82 @@ hobbies    : Hackathons, Competitive Programming, Learning new tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushisharma0709&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=7F77DD&text_color=5F5E5A&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushisharma0709&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=5F5E5A&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khushisharma0709&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushisharma0709&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9&layout=compact&langs_count=8" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisharma0709&hide_border=true&background=00000000&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=5F5E5A&dates=5F5E5A&currStreakNum=7F77DD&sideNums=444441" height="165"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushisharma0709&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=7F77DD&sideNums=c9d1d9&stroke=7F77DD" height="180"/>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=khushisharma0709&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> ⚙️ **One-time setup needed for the snake!** See the `snake-setup.yml` file included with this README. Follow the 3 steps below.
+
+---
+
+## 🏅 Certificates & Achievements
+
+| # | Certificate | Issuer | Date | Link |
+|---|-------------|--------|------|------|
+| 🎓 | Machine Learning Specialization | Coursera | Dec 2024 | [View](#) |
+| 💚 | Python (Basic) Certificate | HackerRank | Nov 2024 | [View](https://www.hackerrank.com/profile/mekhushi0709) |
+| 💚 | Problem Solving (Basic) | HackerRank | Nov 2024 | [View](#) |
+| 📘 | _(Paste your next certificate here)_ | Issuer | Month Year | [View](#) |
+
+> 💡 To add more: copy any row, paste it below the last one, fill in the details.
 
 ---
 
 ## 🗺️ Learning Journey
 
 ```
-2023         ──► Started B.Tech CSE (AIML) at Prayagraj
-Early 2024   ──► Built Agro AI Chatbot (first ML project) 🌾
-Mid 2024     ──► Emotion Detection System with CNN 😊
-Late 2024    ──► Joined LeetCode + GFG, started DSA grind 💻
-2025         ──► Intensively mastering DSA + Java (70%) 🚀
-Now          ──► Building more AI/ML projects | Open Source
+2023        ──► Enrolled in B.Tech CSE (AIML) at Prayagraj 🎓
+Early 2024  ──► Built Agro AI Chatbot — first real ML project 🌾
+Mid 2024    ──► Emotion Detection System using CNN + OpenCV 😊
+Late 2024   ──► Joined LeetCode, GFG, HackerRank — DSA grind begins ⚔️
+Jan 2025    ──► Earned HackerRank Python & Problem Solving certs 🏅
+Now         ──► Mastering DSA + Java | Deepening ML knowledge 🚀
+Next        ──► Internship | OSS contributions | More projects 🌟
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-*I'm always open to collaborating on interesting projects, internship opportunities, or just a good tech conversation!*
+*Open to collaborations, internships, and great tech conversations!*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sharma-59257127a)
-[![Gmail](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekhushi0709@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sharma-59257127a)
+[![Gmail](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekhushi0709@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7F77DD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khushisharma0709.github.io/Portfolio/)
 
 </div>
 
@@ -204,8 +224,8 @@ Now          ──► Building more AI/ML projects | Open Source
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
-
 *"Consistency + Smart Work = Success 🚀"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
