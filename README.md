@@ -1,6 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khushi%20Sharma&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CSE%20(AIML)%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=18&descAlignY=58&descColor=ffffffcc" width="100%"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Sharma+👋" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=CSE+(AIML)+Student;Full+Stack+Developer;AI%2FML+Explorer;DSA+Learner" />
+</p>
+
+<p align="center">
+  Building clean & impactful tech 🚀
+</p>
+
+<p align="center">──────────── ✦ ────────────</p>
 
 <div align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=650&lines=Building+things+that+think+%F0%9F%A7%A0;CSE+(AIML)+%40+Prayagraj+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Dev+%7C+ML+Explorer+%7C+Open+Source;Always+learning%2C+always+shipping+%F0%9F%9A%80;DSA+grinder+%7C+Hackathon+enthusiast+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -19,42 +32,41 @@
 
 ## 🧠 About Me
 
-```python
-class KhushiSharma:
-    def __init__(self):
-        self.name       = "Khushi Sharma"
-        self.location   = "Prayagraj, India 🇮🇳"
-        self.degree     = "B.Tech CSE (AIML) — 2nd Year"
-        self.interests  = ["Machine Learning", "Full-Stack Dev", "DSA", "Open Source"]
-        self.currently  = "Mastering DSA + Java | Building AI/ML Projects"
-        self.goal       = "Software Engineer / ML Engineer"
-        self.fun_fact   = "I debug faster with chai ☕"
+```
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-me = KhushiSharma()
-me.say_hi()
+Name: Khushi Sharma  
+Role: CSE (AIML) Student  
+
+Focus:
+- Machine Learning  
+- Full Stack Development  
+- Data Structures & Algorithms  
+
+Currently:
+Learning, building, and improving every day.
+
+Goal:
+Software Engineer / ML Engineer
+
 ```
 
 ---
 
 ## 🚀 Skill Progress
 
-> Updated manually when I level up! Just edit the number in the URL.
+
 
 | Skill | Progress | Status |
 |-------|----------|--------|
-| **DSA + Java** | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=220&color=7F77DD&suffix=%) | 🔥 Grinding |
-| **Machine Learning** | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=220&color=1D9E75&suffix=%) | 📈 Advancing |
-| **Full-Stack Dev** | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=220&color=D85A30&suffix=%) | 🛠️ Building |
-| **Python** | ![82%](https://progress-bar.xyz/82/?scale=100&title=&width=220&color=3776AB&suffix=%) | ⚡ Strong |
-| **React** | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=220&color=D4537E&suffix=%) | 🌱 Growing |
-| **TensorFlow / Keras** | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=220&color=FF6F00&suffix=%) | 🤖 Exploring |
-| **OpenCV** | ![55%](https://progress-bar.xyz/55/?scale=100&title=&width=220&color=639922&suffix=%) | 👁️ Learning |
-| **Flask** | ![65%](https://progress-bar.xyz/65/?scale=100&title=&width=220&color=888780&suffix=%) | 🔧 Comfortable |
-
-> 💡 **To update %:** Change the number in the URL — e.g. `progress-bar.xyz/70/` → `progress-bar.xyz/85/`
+| **DSA + Java** | ![](https://progress-bar.xyz/80/?scale=100&width=220&color=7F77DD&suffix=%) | 🔥 Grinding |
+| **Machine Learning** | ![](https://progress-bar.xyz/60/?scale=100&width=220&color=1D9E75&suffix=%) | 📈 learning |
+| **Full-Stack Dev** | ![](https://progress-bar.xyz/75/?scale=100&width=220&color=D85A30&suffix=%) | 🛠️ Building |
+| **Python** | ![](https://progress-bar.xyz/82/?scale=100&width=220&color=3776AB&suffix=%) | ⚡ Strong |
+| **React** | ![](https://progress-bar.xyz/68/?scale=100&width=220&color=D4537E&suffix=%) | 🌱 Growing |
+| **TensorFlow / Keras** | ![](https://progress-bar.xyz/60/?scale=100&width=220&color=FF6F00&suffix=%) | 🤖 Exploring |
+| **OpenCV** | ![](https://progress-bar.xyz/55/?scale=100&width=220&color=639922&suffix=%) | 👁️ Learning |
+| **Flask** | ![](https://progress-bar.xyz/65/?scale=100&width=220&color=888780&suffix=%) | 🔧 Comfortable |
 
 ---
 
@@ -91,7 +103,7 @@ me.say_hi()
 
 </div>
 
-> 💡 _Replace `#` with your actual GitHub repo URLs. To add a new project, copy any row and fill in the details._
+
 
 ---
 
@@ -102,8 +114,7 @@ me.say_hi()
 ### Solved Problems + Heatmap (auto-updates daily)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/khushisharma_07?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/khushisharma_07/)
 
-### Contest Rating History (auto-updates after every contest)
-[![LeetCode Contest](https://leetcard.jacoblin.cool/khushisharma_07?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/u/khushisharma_07/)
+
 
 </div>
 
@@ -131,7 +142,7 @@ me.say_hi()
 | 💡 Problem Solving | Algorithms & Data Structures | ⭐⭐⭐ |
 | ☕ Java | Java Programming | ⭐⭐ |
 
-> _Update your actual star ratings from your HackerRank profile badges page._
+
 
 </div>
 
@@ -190,19 +201,7 @@ me.say_hi()
 
 > 💡 To add more: copy any row, paste it below the last one, fill in the details.
 
----
 
-## 🗺️ Learning Journey
-
-```
-2023        ──► Enrolled in B.Tech CSE (AIML) at Prayagraj 🎓
-Early 2024  ──► Built Agro AI Chatbot — first real ML project 🌾
-Mid 2024    ──► Emotion Detection System using CNN + OpenCV 😊
-Late 2024   ──► Joined LeetCode, GFG, HackerRank — DSA grind begins ⚔️
-Jan 2025    ──► Earned HackerRank Python & Problem Solving certs 🏅
-Now         ──► Mastering DSA + Java | Deepening ML knowledge 🚀
-Next        ──► Internship | OSS contributions | More projects 🌟
-```
 
 ---
 
