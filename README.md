@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Sharma+👋" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Sharma+%F0%9F%91%8B" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=CSE+(AIML)+Student;Full+Stack+Developer;AI%2FML+Explorer;DSA+Learner" />
