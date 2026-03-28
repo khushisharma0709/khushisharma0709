@@ -173,7 +173,15 @@ Software Engineer / ML Engineer
 </div>
 
 ---
+---
+## 📈 Contribution Graph
 
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushisharma0709&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true)](https://github.com/Yashsri07)
+
+</div>
+---
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
@@ -185,6 +193,7 @@ Software Engineer / ML Engineer
 </picture>
 
 </div>
+
 
 > ⚙️ **One-time setup needed for the snake!** See the `snake-setup.yml` file included with this README. Follow the 3 steps below.
 
