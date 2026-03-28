@@ -7,13 +7,12 @@
 </p>
 
 <p align="center">
-  Building clean & impactful tech 🚀
+  Building clean &amp; impactful tech 🚀
 </p>
 
 <p align="center">──────────── ✦ ────────────</p>
 
 <div align="center">
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=650&lines=Building+things+that+think+%F0%9F%A7%A0;CSE+(AIML)+%40+Prayagraj+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Dev+%7C+ML+Explorer+%7C+Open+Source;Always+learning%2C+always+shipping+%F0%9F%9A%80;DSA+grinder+%7C+Hackathon+enthusiast+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -32,35 +31,22 @@
 
 ## 🧠 About Me
 
-```
-
-
-Name: Khushi Sharma  
-Role: CSE (AIML) Student  
-
-Focus:
-- Machine Learning  
-- Full Stack Development  
-- Data Structures & Algorithms  
-
-Currently:
-Learning, building, and improving every day.
-
-Goal:
-Software Engineer / ML Engineer
-
+```yaml
+Name:     Khushi Sharma
+Role:     CSE (AIML) Student @ Prayagraj
+Focus:    Machine Learning · Full Stack Dev · DSA
+Goal:     Software Engineer / ML Engineer
+Motto:    "Consistency + Smart Work = Success 🚀"
 ```
 
 ---
 
 ## 🚀 Skill Progress
 
-
-
 | Skill | Progress | Status |
 |-------|----------|--------|
 | **DSA + Java** | ![](https://progress-bar.xyz/80/?scale=100&width=220&color=7F77DD&suffix=%) | 🔥 Grinding |
-| **Machine Learning** | ![](https://progress-bar.xyz/60/?scale=100&width=220&color=1D9E75&suffix=%) | 📈 learning |
+| **Machine Learning** | ![](https://progress-bar.xyz/60/?scale=100&width=220&color=1D9E75&suffix=%) | 📈 Learning |
 | **Full-Stack Dev** | ![](https://progress-bar.xyz/75/?scale=100&width=220&color=D85A30&suffix=%) | 🛠️ Building |
 | **Python** | ![](https://progress-bar.xyz/82/?scale=100&width=220&color=3776AB&suffix=%) | ⚡ Strong |
 | **React** | ![](https://progress-bar.xyz/68/?scale=100&width=220&color=D4537E&suffix=%) | 🌱 Growing |
@@ -96,31 +82,26 @@ Software Engineer / ML Engineer
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🌾 **Agro AI Chatbot** ⭐ | Crop recommendation ML system + AgriBot for real-time farming queries | `Python` `Scikit-learn` `Flask` `NLP` | [Repo](#) |
+| 🌾 **Agro AI Chatbot** | Crop recommendation ML system + AgriBot for real-time farming queries | `Python` `Scikit-learn` `Flask` `NLP` | [Repo](#) |
 | 😊 **Emotion Detection** | Real-time facial emotion recognition using CNN from live camera | `TensorFlow` `OpenCV` `CNN` | [Repo](#) |
 | 🌐 **Portfolio Website** | Responsive personal portfolio with smooth animations | `HTML` `CSS` `JavaScript` | [Live](https://khushisharma0709.github.io/Portfolio/) |
 | 🎲 **Guessing Game** | Interactive number guessing game with animated UI | `JavaScript` | [Repo](#) |
 
 </div>
 
-
-
 ---
 
-## 📊 LeetCode — Full Dynamic Stats
+## 📊 LeetCode Stats
 
 <div align="center">
 
-### Solved Problems + Heatmap (auto-updates daily)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/khushisharma_07?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/khushisharma_07/)
-
-
 
 </div>
 
 ---
 
-## 🟢 GeeksForGeeks — Live Stats
+## 🟢 GeeksForGeeks Stats
 
 <div align="center">
 
@@ -141,8 +122,6 @@ Software Engineer / ML Engineer
 | 🐍 Python | Python Programming | ⭐⭐⭐ |
 | 💡 Problem Solving | Algorithms & Data Structures | ⭐⭐⭐ |
 | ☕ Java | Java Programming | ⭐⭐ |
-
-
 
 </div>
 
@@ -173,29 +152,28 @@ Software Engineer / ML Engineer
 </div>
 
 ---
----
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushisharma0709&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true)](https://github.com/Yashsri07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushisharma0709&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true)](https://github.com/khushisharma0709)
 
 </div>
+
 ---
-## 🐍 Contribution Snake Animation
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake.svg" width="100%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/khushisharma0709/khushisharma0709/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
-
-
-> ⚙️ **One-time setup needed for the snake!** See the `snake-setup.yml` file included with this README. Follow the 3 steps below.
 
 ---
 
@@ -206,11 +184,7 @@ Software Engineer / ML Engineer
 | 🎓 | Machine Learning Specialization | Coursera | Dec 2024 | [View](#) |
 | 💚 | Python (Basic) Certificate | HackerRank | Nov 2024 | [View](https://www.hackerrank.com/profile/mekhushi0709) |
 | 💚 | Problem Solving (Basic) | HackerRank | Nov 2024 | [View](#) |
-| 📘 | _(Paste your next certificate here)_ | Issuer | Month Year | [View](#) |
-
-> 💡 To add more: copy any row, paste it below the last one, fill in the details.
-
-
+| 📘 | _(Add your next certificate here)_ | Issuer | Month Year | [View](#) |
 
 ---
 
