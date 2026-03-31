@@ -181,7 +181,7 @@ Motto:    "Consistency + Smart Work = Success 🚀"
 
 | # | Certificate | Issuer | Date | Link |
 |---|-------------|--------|------|------|
-| 🎓 | Machine Learning Specialization | Coursera | Dec 2024 | [View](#) |
+| 🎓 | java certificate |effervescence IIIT ALLAHABAD | JULY 2024 | [View](#) |
 | 💚 | Python (Basic) Certificate | HackerRank | Nov 2024 | [View](https://www.hackerrank.com/profile/mekhushi0709) |
 | 💚 | Problem Solving (Basic) | HackerRank | Nov 2024 | [View](#) |
 | 📘 | _(Add your next certificate here)_ | Issuer | Month Year | [View](#) |
