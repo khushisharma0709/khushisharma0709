@@ -182,8 +182,8 @@ Motto:    "Consistency + Smart Work = Success 🚀"
 | # | Certificate | Issuer | Date | Link |
 |---|-------------|--------|------|------|
 | 🎓 | java certificate |effervescence IIIT ALLAHABAD | JULY 2024 | [View](https://drive.google.com/file/d/1wawx_0wYOXMNOdTIvu7QRjXExxvhbSdt/view?usp=drivesdk) |
-| 💚 | Full Stack web developer(MERN STACK) | APNA COLLEGE | 2025 | [View](https://www.hackerrank.com/profile/mekhushi0709) |
-| 💚 | Problem Solving (Basic) | HackerRank | Nov 2024 | [View](#) |
+| 💚 | Full Stack web developer(MERN STACK) | APNA COLLEGE | 2024 | [View](https://drive.google.com/file/d/19HOfSAxzClZffV0cRe0nsuXsNuF24f5d/view?usp=drivesdk) |
+| 💚 | DSA with JAVA | APNA COLLEGE | Nov 2025 | [View](https://drive.google.com/file/d/19HOfSAxzClZffV0cRe0nsuXsNuF24f5d/view?usp=drivesdk) |
 | 📘 | _(Add your next certificate here)_ | Issuer | Month Year | [View](#) |
 
 ---
